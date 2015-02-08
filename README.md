@@ -1,6 +1,6 @@
 # DiscreteUploadTo
 
-Use any where and upload file with ajxx. No need of any form.
+Use any where and upload file with ajax. No need of any form.
 
 ## Installation
 
