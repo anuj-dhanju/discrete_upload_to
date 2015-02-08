@@ -22,6 +22,7 @@ Or install it yourself as:
 1.  function discrete_upload_success(url){
       
     }
+
     function discrete_upload_failure(){
      
     }
