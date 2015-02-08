@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["anujdhanju@gmail.com"]
   spec.summary       = %q{Discrete file upload with ajax}
   spec.description   = %q{Use any where and upload file with ajex. No need of any form.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/anuj-dhanju/discrete_upload_to"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
