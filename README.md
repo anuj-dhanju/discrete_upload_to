@@ -1,6 +1,6 @@
 # DiscreteUploadTo
 
-TODO: Write a gem description
+Use any where and upload file with ajxx. No need of any form.
 
 ## Installation
 
@@ -19,8 +19,14 @@ Or install it yourself as:
     $ gem install discrete_upload_to
 
 ## Usage
+1.  function discrete_upload_success(url){
+      
+    }
+    function discrete_upload_failure(){
+     
+    }
 
-TODO: Write usage instructions here
+2. <%= discrete_upload_tag :file, url, class%>
 
 ## Contributing
 
